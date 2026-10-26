@@ -1,1 +1,0 @@
-# Bernoulli-equation-caluculator
